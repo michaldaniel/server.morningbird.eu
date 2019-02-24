@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-# core.morningbird.eu
-
-Template for creating simple status pages
-
-=======
 # server.morningbird.eu
 
 Source of my server site running at server.morningbird.eu
  
->>>>>>> ab07a7476cb402f4b829be40df24949cf2054b7b
 ## License
 
 Copyright (c) 2019 Michał Daniel
